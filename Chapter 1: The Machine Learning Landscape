@@ -1,1 +1,40 @@
+What is machine leaning
+Machine learning is the science of programming coputers so that they can learn from data
+
+Types of Machine learning System 
+
+  1. Supervised 
+  2. Unsupervised 
+  3. Batch and Online learning 
+  4. Instance based vs model based
+
+
+
+  1. Supervised
+			1.1	the traning set you feed to the algorith includes the desired solution called : LABELS
+			1.2 Classification is a subervised learning task - E.g spam filter
+			1.3 predict a target numeric value - e.g srock prices
+			1.4 Supervised learning algorithms
+					1.4.1 K- Nearest Neighbours 
+					1.4.2 Linear regression
+					1.4.3 Logistic regression 
+					1.4.4 Support vector machines (SVM)
+					1.4.5 Decision tree and random forest
+					1.4.6 NEural n/w s
+
+	2. Un supervised learning
+			2.1	trainig data is unlabled - the system tries to learn without a teacher
+			2.2 Un Supervised learning algorithms
+					2.2.1 Clustering
+								- K-means
+								- DBSCAN 
+								- Hirerchical Cluster Analysis (HCA)
+					2.2.2 Anomoly detection and novelty detection
+			
+
+			
+			
+ 
+  
+
 
