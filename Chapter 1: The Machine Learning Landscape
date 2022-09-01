@@ -34,7 +34,17 @@ Types of Machine learning System
 
 			
 			
+ Transformation pipeline 
  
+ Transformer: filtering or modifying the data 
+ 	Classes that implements both fit() and trasform() 
+	example: generate a new data matrix consisting of all polynomial combination
+
+Estimator: learn from the data 
+	Classes that implement both fit() and predict() 
+	Example: train a linear regression model on the input features
+	
+
   
 
 
